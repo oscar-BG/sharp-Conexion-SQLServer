@@ -1,0 +1,9 @@
+B:\Programacion\SCharp\conexionSQLserver\conexionSQLserver\bin\Debug\conexionSQLserver.exe.config
+B:\Programacion\SCharp\conexionSQLserver\conexionSQLserver\bin\Debug\conexionSQLserver.exe
+B:\Programacion\SCharp\conexionSQLserver\conexionSQLserver\bin\Debug\conexionSQLserver.pdb
+B:\Programacion\SCharp\conexionSQLserver\conexionSQLserver\obj\Debug\conexionSQLserver.csprojAssemblyReference.cache
+B:\Programacion\SCharp\conexionSQLserver\conexionSQLserver\obj\Debug\conexionSQLserver.Form1.resources
+B:\Programacion\SCharp\conexionSQLserver\conexionSQLserver\obj\Debug\conexionSQLserver.Properties.Resources.resources
+B:\Programacion\SCharp\conexionSQLserver\conexionSQLserver\obj\Debug\conexionSQLserver.csproj.GenerateResource.cache
+B:\Programacion\SCharp\conexionSQLserver\conexionSQLserver\obj\Debug\conexionSQLserver.exe
+B:\Programacion\SCharp\conexionSQLserver\conexionSQLserver\obj\Debug\conexionSQLserver.pdb
